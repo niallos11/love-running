@@ -16,7 +16,7 @@ h1,h2 {
     font-family: Oswald,sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525
+    color:#252525
 }
 #logo {
     float: left;
@@ -37,9 +37,9 @@ h1,h2 {
 #menu a {
     text-decoration: none;
 }
-#menu :hover: {
-    border: bottom 1px solid #3a3a3a;
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
 }
 .active {
-    border: bottom 1px solid #3a3a3a;
+    border-bottom: 1px solid #3a3a3a;
 }
