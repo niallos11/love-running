@@ -60,7 +60,7 @@ h1,h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url("/images/hero-image.webp") no-repeat center center;
+    background: url("/assests/images/hero-image.webp") no-repeat center center;
     /* animates zoom effect on loading page */
     animation-name: hero-zoom;
     animation-duration: 5s;
@@ -139,7 +139,7 @@ h1,h2 {
 }
 
 #circle-cover-bg {
-    background: url('/images/ethos-center-image.jpg') no-repeat center center;
+    background: url('/assests/images/ethos-center-image.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
@@ -147,7 +147,7 @@ h1,h2 {
 /* event times */
 
 #times {
-    background-image: url("/images/dublin-city.webp");
+    background-image: url("/assests/images/dublin-city.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
